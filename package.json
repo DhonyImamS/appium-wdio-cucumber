@@ -1,0 +1,30 @@
+{
+  "name": "appium-wdio-cucumber",
+  "version": "1.0.0",
+  "description": "This is appium with wdio that written in gherkin",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test-android"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.1.2",
+    "mocha": "^8.0.1",
+    "webdriverio": "^6.0.5",
+    "mochawesome": "^6.3.0",
+    "mochawesome-report-generator": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhonyImamS/appium-wdio-cucumber.git"
+  },
+  "author": "DhonyImamS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhonyImamS/appium-wdio-cucumber/issues"
+  },
+  "homepage": "https://github.com/DhonyImamS/appium-wdio-cucumber#readme"
+}
